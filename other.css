@@ -1,0 +1,38 @@
+.monoy{
+
+            font-size: 30px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: bold;
+            text-align: center;
+            
+            
+
+}
+.both{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    column-gap: 10px;
+    margin: 0 120px;
+}
+.bot{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 10px;
+    margin: 10px 120px;
+}
+.btn{
+    margin-top: 5px;
+    border: none;
+    border-radius: 8px;
+    background-color: blue;
+    padding:10px 25px;
+    color: white;
+    margin-left: 50px;
+}
+.input{
+    border-radius: 7px;
+    border: none;
+    padding:7px 30px;
+    width: 70%;
+    margin-left: 50px;
+}

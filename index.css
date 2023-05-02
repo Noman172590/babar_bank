@@ -1,0 +1,28 @@
+header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 35px;
+}
+.email{
+    margin-bottom: 10px;
+    width: 50%;
+}
+.div1{
+       padding: 30px 20px;
+       background-color: lightgreen;
+      
+       margin-top: 10px;
+       margin:10px 250px
+}
+
+.btn{
+      background-color: orange;
+      border-radius: 7px;
+      border: none;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-weight: bold;
+      color: white;
+      padding: 13px;
+}
